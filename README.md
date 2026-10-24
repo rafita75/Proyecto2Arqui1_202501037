@@ -16,5 +16,4 @@ make
 
 ## Instrucciones de Ejecución
 
-```bash
 make run
